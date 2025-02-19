@@ -46,4 +46,4 @@ CREATE TABLE IF NOT EXISTS products (
 
 
 🔗 Related Projects
-[Student Management System with MySQL](https://github.com/HusseinMelhem/StudentManagementSystem-withMysqlImplementation/tree/main)
+https://github.com/HusseinMelhem/StudentManagementSystem-withMysqlImplementation/tree/main
